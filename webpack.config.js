@@ -153,7 +153,7 @@ var options = {
     new CopyWebpackPlugin({
       patterns: [
         {
-          from: 'src/assets/img/icon-34.png',
+          from: 'src/assets/img/logo-custom.png',
           to: path.join(__dirname, 'build'),
           force: true,
         },
