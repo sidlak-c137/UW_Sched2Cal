@@ -2,6 +2,7 @@
 
 This chrome extension allows University of Washington students export their UW course schedule as an .ics file to add to their personal calendars.
 
+<a href="https://chrome.google.com/webstore/detail/uw-sched2cal/dpkiehpnagbpdfnmojelolmibledjccj/related?hl=en">Link to Extension</a>
 
 ## Usage
 
